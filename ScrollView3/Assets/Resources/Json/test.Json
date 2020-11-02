@@ -1,0 +1,76 @@
+{
+
+  "data" : 
+  [
+    {
+      "id" : 1,
+      "name" : "タコ",
+      "introduction" : "「使われることの無いwiiリモコン」をインドで大ヒットさせた。ラジオのパーソナリティを務める。フリースタイルダンジョンでは司会",
+      "faceImage" : "IMG_Tako",
+      "moviepath" : "Movie_Tako",
+      "image1" : "IMG_Tako1",
+      "image2" : "IMG_Tako2",
+      "image3" : "IMG_Tako3",
+      "text1" : "LINEで「知り合いかも？」に出てきた人を知らん人だけど勝手に追加する奴だと松尾にツッコまれている",
+      "text2" : "IPPONグランプリの際、出したフリップが隣の松尾と天と地の差だった",
+      "text3" : "クラウドファンディングで集めた資金で人を雇った",
+      "ecologyImage" : "ecologyImage_Tako",
+      "ecologyText" :"赤さんウインナーか？と言われることを酷く気にする。よくある思いがけないタイミングで人生の機転がうまく回り資金繰りが上手である。イカとは職場内恋愛（同じ司会進行の仕事：フリースタイルダンジョン）"
+     
+      
+      
+    },
+    
+    {
+      "id" : 2,
+      "name" : "ネズミ",
+      "introduction" : "昔悪いことをたくさんしていた（らしい)松尾とM１に出た経験がある。",
+      "faceImage" : "IMG_Nezumi",
+      "moviepath" : "Movie_Nezumi",
+      "image1" : "IMG_Nezumi1",
+      "image2" : "IMG_Nezumi2",
+      "image3" : "IMG_Nezumi3",
+      "text1" : "トリに対して、ツッコミを入れる様子（初期）",
+      "text2" : "ネズミの母、ネズミの思春期時に囚人番号002とよんでいた",
+      "text3" : "昔は悪いことをしていたとトリに伝えている様子",
+      "ecologyImage" : "ecologyImage_Nezumi",
+      "ecologyText" : "比較的登場回数が多い、プライドが高いが故ツッコミの際に噛むと流す癖がある、的確なツッコミというよりボキャブラリーで勝負するところはフリースタイルダンジョンと同じ。しかし所詮素人漫才motherfucker,今カノであるクレオパトラを溺愛する"
+      
+    },
+
+
+    {
+      "id" : 3,
+      "name" : "トリ",
+      "introduction" : "ミスiD2040エントリー、因縁ラップバトルではムエタイで挑んだ。録音の際喉が死ぬ確率が非常に高い",
+      "faceImage" : "IMG_Tori",
+      "moviepath" : "Movie_Tori",
+      "image1" : "IMG_Tori1",
+      "image2" : "IMG_Tori2",
+      "image3" : "IMG_Tori3",
+      "text1" : "ネズミとのYouTube撮影（初期）",
+      "text2" : "別れた後だが電話がネズミと盛り上がっている様子",
+      "text3" : "トリの中の悪魔の思考はレベチ。悪魔：「東京ドームの空調に催涙ガスまぜちゃえ」",
+      "ecologyImage" : "ecologyImage_Tori",
+      "ecologyText" : "ネズミの元カノであるが故、誰との子か分からない子持ち。ストーカー気質である。「俺はダンスでスリースタイルダンジョンを制する」と豪語するほど、ラップというものは言葉ではなく体だというタイプ。めんどくさい"
+    },
+
+    {
+      "id" : 4,
+      "name" : "松尾",
+      "introduction" : "[カステラを最初に日本に広めた男]なんやかんやでUUUM所属になった成人男性。Switchのコントローラーだけ2つ持ってる。唯一の人間",
+      "faceImage" : "IMG_Matsuo",
+      "moviepath" : "Movie_Matsuo",
+      "image1" : "IMG_Matsuo1",
+      "image2" : "IMG_Matsuo2",
+      "image3" : "IMG_Matsuo3",
+      "text1" : "松尾の持っている鉛筆はキモい",
+      "text2" : "なんやかんやこれでは「猫可愛い」という感想だった",
+      "text3" : "初対面なのに距離がやたら近い",
+      "ecologyImage" : "ecologyImage_Matsuo",
+      "ecologyText" : "ひょんなことから北海道生まれパキスタン育ち。悪そうな奴は大体悪い。"
+      
+
+    }
+  ]
+}
